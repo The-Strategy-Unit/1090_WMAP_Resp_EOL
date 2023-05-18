@@ -53,3 +53,5 @@ data/sensitive/
 
 # temporary folder
 /tmp/
+
+/data
